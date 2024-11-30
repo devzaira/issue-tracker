@@ -1,3 +1,4 @@
+import "easymde/dist/easymde.min.css";
 import "@radix-ui/themes/styles.css";
 import './theme-config.css';
 import './globals.css';
